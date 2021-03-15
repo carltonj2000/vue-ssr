@@ -1,24 +1,5 @@
-# vue-ssr
+# Vue SSR
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+The code in this repo is based on the
+[Server Side Rendering with Vue.js 3](https://youtu.be/XJfaAkvLXyU)
+video.
